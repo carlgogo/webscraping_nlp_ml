@@ -1,0 +1,10 @@
+requests
+bs4 >= 4.5.3
+selenium >= 3.3.1
+pandas
+sklearn
+nltk
+spacy
+sklearn-contrib-lightning
+imblearn
+matplotlib
